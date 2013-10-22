@@ -1,4 +1,4 @@
 OS
 ==
 
-Main OS Files FOr Musye OS
+Main OS Files For Musye OS
